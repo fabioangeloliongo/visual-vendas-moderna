@@ -73,7 +73,7 @@ const PricingSection = () => {
               </div>
               
               <CardContent className="p-8 text-center">
-                <h3 className="text-2xl font-bold mb-4">DISTÚRBIOS IA</h3>
+                <h3 className="text-2xl font-bold mb-4">REVOLUÇÃO IA</h3>
                 
                 <div className="mb-6">
                   <div className="flex items-center justify-center gap-2 mb-2">

@@ -97,7 +97,7 @@ const FooterSection = () => {
                   <Brain className="w-6 h-6 text-primary-foreground" />
                 </div>
                 <span className="text-xl font-bold gradient-primary bg-clip-text text-transparent">
-                  DISTÚRBIOS IA
+                  REVOLUÇÃO IA
                 </span>
               </div>
               <p className="text-muted-foreground mb-6">
@@ -166,7 +166,7 @@ const FooterSection = () => {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
                   <Mail className="w-4 h-4" />
-                  <span>contato@disturbiosia.com</span>
+                  <span>contato@revolucaoIA.com</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
                   <MapPin className="w-4 h-4" />
@@ -185,7 +185,7 @@ const FooterSection = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-sm text-muted-foreground">
-              © 2024 DISTÚRBIOS IA. Todos os direitos reservados.
+              © 2024 REVOLUÇÃO IA. Todos os direitos reservados.
             </div>
             <div className="flex items-center gap-6 text-sm text-muted-foreground">
               <span>CNPJ: 00.000.000/0001-00</span>

@@ -20,7 +20,7 @@ const HeroSection = () => {
             
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
               <span className="gradient-primary bg-clip-text text-transparent">
-                DISTÚRBIOS
+                REVOLUÇÃO
               </span>
               <br />
               <span className="text-foreground">IA</span>
